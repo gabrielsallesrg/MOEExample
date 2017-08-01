@@ -112,7 +112,6 @@ public class AppViewController extends UIViewController implements RandomUsersVi
                 NSData data = NSData.dataWithContentsOfURL(imageUrl);
                 cell.imageView().initWithImage(UIImage.imageWithData(data));
                 SDImageCache.sharedImageCache().storeImageForKey(cell.imageView().image(), urlString);
-                Log.d("LOADED IMAGE", String.valueOf(pos) + " " + mRandomUsers.get(pos).getPicture().getThumbnail());
             });
         }
 

@@ -3,12 +3,30 @@
 
     <item
         is-multidex="false"
+        jar="/Users/gabrielguedes/.android/build-cache/dbe65777f3903ca352b7e8e60ed4d98cd70e5db6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_9baed7b3a038f91cc528769ae408caff1348b321.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/gabrielguedes/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
         <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_2633e4e2c97969e3a359c9c7409b61df9bcb3ae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielguedes/.android/build-cache/59789d01c9f8ff85be004af557ee43cc5e053d87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e3dfc7e44f8fde989ba4e8a5fdde34d9a32447c6">
+        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_56626ba6d9d1152489e59b6cfc5dff5fc8b22bc7.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,147 +48,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/gabrielguedes/Documents/ItLab/MOEExample/commons/build/libs/commons.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="70c713c312db0b225f7654cf5b1bd9ce3844187b">
-        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/commons_841bba56cb46616f80e4df39438b8f204b347e5e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/gabrielguedes/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/gson-2.7_b017b0a2e513087ff870fdaa236660ff0ddcf6d8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/gabrielguedes/.android/build-cache/ffe7071ad763acc70808d53b8411fedeb648f3cc/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_101bec3ba063804cdfc30e802ecc4b67c8a7cce9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/gabrielguedes/.android/build-cache/cfd04b172ca6ded2fa4ef21d48842c1ba681da2a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
-        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_c4931efb30869600ad50f8bedd0c65a634e95e28.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/gabrielguedes/.android/build-cache/5c786fd46c8f1eed65b0ca9f4193e8e6470c2b13/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_97d58313466b64b0a9d93639679f4d7e4b67593f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/gabrielguedes/.android/build-cache/84b2f82cd312775a1d2da3e573ae3208e1cd147e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_a389c11d407dc2d106d9a7d89293e1543b69582d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.3.3/baseLibrary-2.3.3.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
-        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/baseLibrary-2.3.3_a13c89973c1c8bce4f7e9a2f1b7ba7e93f86f6c7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/gabrielguedes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
-        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_e29403e81346cd78ef49e9d10937039ff11c8899.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/gabrielguedes/.android/build-cache/55c95dd58241bed07301f6563484b48470a611f8/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_0353261a2e3d3639dd12a016752f63e3a8dcdc0c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/gabrielguedes/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.3.0/43e4ac24adc40a24c51b2d2a71a2483ef1b0ce9a/adapter-rxjava-2.3.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="43e4ac24adc40a24c51b2d2a71a2483ef1b0ce9a">
-        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.3.0_cdacca0d5584d72c9a834a0b48ab6fa0fe9cacfb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/gabrielguedes/.android/build-cache/f8ae8a99510e3d1a06c674b011b37c1f32a216e0/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_b048f280831ecf2dd2927346685534a2085d2b3c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/gabrielguedes/.android/build-cache/8817724aa54d0b742f397cea2bdbe6df106e03af/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_0836860da1cd5c3e098f83e4e81abc585407c331.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/gabrielguedes/.android/build-cache/3c255c51dc3786d692d24101efecf8ba97f7273e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_09726bf9e1a7e664d1cdba34825ac6d878efa1ed.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/gabrielguedes/.android/build-cache/dbe65777f3903ca352b7e8e60ed4d98cd70e5db6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_9baed7b3a038f91cc528769ae408caff1348b321.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/gabrielguedes/.android/build-cache/59789d01c9f8ff85be004af557ee43cc5e053d87/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="e3dfc7e44f8fde989ba4e8a5fdde34d9a32447c6">
-        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_56626ba6d9d1152489e59b6cfc5dff5fc8b22bc7.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/gabrielguedes/.android/build-cache/451e6768ea394d2befaf8ddba411a4a144d3e961/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
         <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_86571e0f9e7b60262b08e752853b28f15c53341c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielguedes/Documents/ItLab/MOEExample/commons/build/libs/commons.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70c713c312db0b225f7654cf5b1bd9ce3844187b">
+        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/commons_841bba56cb46616f80e4df39438b8f204b347e5e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -201,12 +93,57 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/gabrielguedes/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/gson-2.7_b017b0a2e513087ff870fdaa236660ff0ddcf6d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielguedes/.android/build-cache/ffe7071ad763acc70808d53b8411fedeb648f3cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_101bec3ba063804cdfc30e802ecc4b67c8a7cce9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielguedes/.android/build-cache/cfd04b172ca6ded2fa4ef21d48842c1ba681da2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_c4931efb30869600ad50f8bedd0c65a634e95e28.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/gabrielguedes/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.3.0/af000bec2036a2a9d07197c4b03b8966bfc60b03/rxjava-1.3.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="af000bec2036a2a9d07197c4b03b8966bfc60b03">
         <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/rxjava-1.3.0_3f78da2493f7fe1c54efaae2f0c90b840f8a3e3b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabrielguedes/AndroidStudioProjects/TestingGit/MOEExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9d3a3b7e3483e8b7feccccc8444d87e021b986d5">
+        <dex dex="/Users/gabrielguedes/AndroidStudioProjects/TestingGit/MOEExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ef993e602a9f35368e0563f29bd31c00d77f923a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielguedes/.android/build-cache/5c786fd46c8f1eed65b0ca9f4193e8e6470c2b13/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_97d58313466b64b0a9d93639679f4d7e4b67593f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -219,6 +156,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/gabrielguedes/.android/build-cache/84b2f82cd312775a1d2da3e573ae3208e1cd147e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_a389c11d407dc2d106d9a7d89293e1543b69582d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/gabrielguedes/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
         jumboMode="false"
         optimize="true"
@@ -228,12 +174,57 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.3.3/baseLibrary-2.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/baseLibrary-2.3.3_a13c89973c1c8bce4f7e9a2f1b7ba7e93f86f6c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielguedes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_e29403e81346cd78ef49e9d10937039ff11c8899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielguedes/.android/build-cache/55c95dd58241bed07301f6563484b48470a611f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_0353261a2e3d3639dd12a016752f63e3a8dcdc0c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabrielguedes/AndroidStudioProjects/TestingGit/MOEExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/gabrielguedes/AndroidStudioProjects/TestingGit/MOEExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b61a126b5987d0928a0074cdac4e1f4cbdcba197/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/gabrielguedes/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
         <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_956c3f844e62150e0de2a126df3bc916cb69c4ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielguedes/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.3.0/43e4ac24adc40a24c51b2d2a71a2483ef1b0ce9a/adapter-rxjava-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43e4ac24adc40a24c51b2d2a71a2483ef1b0ce9a">
+        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.3.0_cdacca0d5584d72c9a834a0b48ab6fa0fe9cacfb.jar" />
     </item>
     <item
         is-multidex="false"
@@ -255,12 +246,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/gabrielguedes/.android/build-cache/f8ae8a99510e3d1a06c674b011b37c1f32a216e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_b048f280831ecf2dd2927346685534a2085d2b3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielguedes/.android/build-cache/8817724aa54d0b742f397cea2bdbe6df106e03af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_0836860da1cd5c3e098f83e4e81abc585407c331.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/gabrielguedes/.android/build-cache/24ba163a47eb6784848d9f79a675bd651ad699dc/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="df9383b9739db8fafe3a673f8083ccad27a95c4f">
         <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_f91de9b54d95cdef864d11e0e3b09c53ab527254.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabrielguedes/.android/build-cache/3c255c51dc3786d692d24101efecf8ba97f7273e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/gabrielguedes/Documents/ItLab/MOEExample/app/build/intermediates/pre-dexed/debug/classes_09726bf9e1a7e664d1cdba34825ac6d878efa1ed.jar" />
     </item>
     <item
         is-multidex="false"
